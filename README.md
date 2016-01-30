@@ -1,2 +1,7 @@
 # hello-word
-Example
+==================
+
+Hi humans!
+
+This is a example for git read file.
+
